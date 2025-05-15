@@ -92,7 +92,7 @@ python trade_analysis.py
 - pandas provides fast, flexible data filtering and grouping.
 - Ideal for working with structured tabular data and rapid prototyping.
 
-### I have created a new version with optimal output. I will drive in next step. 
+### Added optimal_sol.py file which gives faster response than last one. 
 
 ### Thank you
 
